@@ -4,7 +4,6 @@
 
 ![Архитектура](architecture.png)
   
-[Ссылка на проект на neowiki](https://neowiki.neoflex.ru/pages/viewpage.action?pageId=108997075)  
   
 1. msa-bank-credit-cs:
     * предварительный расчет графика платежей
